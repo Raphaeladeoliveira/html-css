@@ -1,0 +1,5 @@
+Anotações referentes a aula 22 (aplicando os fundos de tela)
+background-position:
+considera a imagem de fundo como um todo assim facilitando 
+sua centralização com center bottom top
+
